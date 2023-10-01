@@ -133,7 +133,10 @@
 // }
 // console.log("name1",name2)
 
-const sum=()=>{
-    var name="shirisha"
-    console.log("name1",name)
-}console.log(name2,name)
+// const sum=()=>{
+//     var name="shirisha"
+//     console.log("name1",name)
+// }console.log(name2,name)
+let data =["akshaya","mahesh","ramesh"]
+// const data1=data.join("")
+// console.log(data1)
